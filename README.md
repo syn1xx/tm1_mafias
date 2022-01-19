@@ -1,2 +1,5 @@
 # 504_mafias
-Sistemas de Bandas y Mafias de FiveM (Adaptacion de tm1_mafias para nuevas versiones de ESX)
+**YOU DON'T HAVE PERMISSION TO SELL THIS SCRIPT**
+
+
+*Sistemas de Bandas y Mafias de FiveM (Adaptacion de tm1_mafias para nuevas versiones de ESX)*
